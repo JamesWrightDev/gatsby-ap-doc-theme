@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-document-tsx",
-    "path": "/foo/antoher-fi.md",
-    "result": {"pageContext":{"data":{"base":"antoher-fi.md","relativeDirectory":"foo","id":"f9de932d-4f33-5f61-9d8f-ff60fa54cc97","childMarkdownRemark":{"rawMarkdownBody":"\n## Another File!\n","frontmatter":{"title":"This This is another file"}}}}},
-    "staticQueryHashes": []}

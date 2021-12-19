@@ -1,1 +1,0 @@
-{"data":{"allFile":{"distinct":["foo","posts"],"edges":[{"node":{"base":"root.md","relativeDirectory":"foo","id":"863c6386-cdcf-5194-a598-44d44ee6cfff","childMarkdownRemark":{"frontmatter":{"title":""}}}},{"node":{"base":"foo.md","relativeDirectory":"posts","id":"297d4549-9b40-51d6-b68d-ba1cbc686b25","childMarkdownRemark":{"frontmatter":{"title":""}}}}]}}}

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktest_gatsby_theme=self.webpackChunktest_gatsby_theme||[]).push([[61],{1510:function(e,t,n){n.r(t);var s=n(7378);t.default=function(){return s.createElement("p",null)}}}]);
-//# sourceMappingURL=component---src-pages-preview-tsx-c5f13c81a340038b31f4.js.map
