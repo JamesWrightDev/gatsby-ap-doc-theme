@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---cache-dev-404-page-js",
+    "path": "/dev-404-page/",
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/foo/root.md"},{"path":"/posts/foo.md"},{"path":"/404/"},{"path":"/404.html"},{"path":"/Preview/"},{"path":"/"}]}},"pageContext":{}},
+    "staticQueryHashes": []}

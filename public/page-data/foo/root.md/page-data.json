@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-document-tsx",
+    "path": "/foo/root.md",
+    "result": {"pageContext":{"data":{"base":"root.md","relativeDirectory":"foo","id":"863c6386-cdcf-5194-a598-44d44ee6cfff","childMarkdownRemark":{"rawMarkdownBody":"root\n\n## hello!\n","frontmatter":{"title":""}}}}},
+    "staticQueryHashes": ["59183784"]}

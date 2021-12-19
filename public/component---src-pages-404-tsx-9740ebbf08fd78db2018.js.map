@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-9740ebbf08fd78db2018.js","mappings":"gJAMA,UAJqB,WACjB,OAAO","sources":["webpack://test-gatsby-theme/./src/pages/404.tsx"],"sourcesContent":["import React from 'react'\n\nconst PageNotFound = () => {\n    return <>404, page not found!</>\n}\n\nexport default PageNotFound"],"names":[],"sourceRoot":""}
